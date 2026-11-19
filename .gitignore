@@ -1,0 +1,21 @@
+# Sensitive Postman files
+*.postman_environment.json
+*.postman_globals.json
+
+# Keep sanitized example files in Git
+!*.postman_environment.example.json
+!*.postman_globals.example.json
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
