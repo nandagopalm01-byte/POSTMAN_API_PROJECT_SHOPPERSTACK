@@ -121,7 +121,7 @@ ShopperStack-API-Testing/
 ├── TestData/
 │   └── DDT_File.json
 │
-├── Globals/
+├── Environment/
 │   └── ShopperStack.postman_globals.example.json
 │
 ├── Reports/
