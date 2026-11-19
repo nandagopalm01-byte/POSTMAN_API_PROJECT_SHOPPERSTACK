@@ -138,7 +138,7 @@ Install the following:
 -   [Node.js](https://nodejs.org/)
 -   [Postman](https://www.postman.com/)
 -   Newman
--   Newman HTML Extra Reporter
+-   Newman HTML Reporter
 
 #### To Run the collection with Newman:
 
@@ -156,13 +156,4 @@ newman run Collection/SHOPPER.postman_collection.json \
   -d TestData/DDT_File.json --delay-request 100 --insecure -r html
 ```
 
-
-
-## Learning Outcomes
-
-This project provides hands-on experience with REST API testing, HTTP
-methods, request and response validation, JavaScript assertions,
-variable management, response data extraction, request chaining,
-JSON-based data-driven execution, Newman command-line execution, and
-HTML test reporting.
 
