@@ -93,20 +93,20 @@ results, response times, and failures.
 
 The following results are from one recorded Newman execution.
 
-  Metric                                   Result
-  ----------------------- -----------------------
-  Collection                              SHOPPER
-  Newman version                            6.2.3
-  Iterations                                    5
-  Requests                                    150
-  Pre-request scripts                          15
-  Test scripts                                160
-  Assertions                                  350
-  Failed requests                               0
-  Failed assertions                             0
-  Total run duration                 44.9 seconds
-  Average response time                     82 ms
-  Data received             Approximately 11.1 MB
+  | Metric | Result |
+  | -- | -- |
+  | Collection  | SHOPPER|
+  | Newman version | 6.2.3|
+  | Iterations | 5|
+  | Requests  | 150|
+  | Pre-request scripts | 15|
+  | Test scripts |160|
+  | Assertions |350|
+  | Failed requests  | 0|
+  | Failed assertions |0|
+  | Total run duration | 44.9 seconds|
+  | Average response time | 82 ms|
+  | Data received | Approximately 11.1 MB|
 
 **Result:** 350 assertions passed with zero failures in this recorded run.
 
